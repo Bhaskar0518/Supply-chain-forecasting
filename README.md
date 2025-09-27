@@ -1,10 +1,10 @@
-#  Supply Chain Demand Forecasting using Deep Learning
+# 📦 Supply Chain Demand Forecasting using Deep Learning
 
 An end-to-end machine learning pipeline for predicting revenue in a supply chain context. This project covers data preprocessing, model training, evaluation, and deployment via Streamlit — designed for real-world business impact and portfolio presentation.
 
 ---
 
-##  Highlights
+## 🚀 Highlights
 
 - ✅ Cleaned and preprocessed supply chain data
 - ✅ Trained a deep neural network using TensorFlow/Keras
@@ -15,7 +15,7 @@ An end-to-end machine learning pipeline for predicting revenue in a supply chain
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 - Python, pandas, NumPy  
 - scikit-learn, TensorFlow/Keras  
@@ -24,7 +24,7 @@ An end-to-end machine learning pipeline for predicting revenue in a supply chain
 
 ---
 
-##  Repository Structure
+## 📁 Repository Structure
 
 File
 
@@ -66,8 +66,11 @@ README.md
 
 Project overview and instructions
 
+📈 Results
 
+📉 Test MSE: 36770560.86
 
+images are provided separately for reference.
 🎛️ How to Run
 
 Clone the repo:
@@ -83,11 +86,11 @@ Run the dashboard:
 
 streamlit run app.py
 
-*** Report
+📄 Report
 
 Read the full report here:📄 Supply Chain Forecasting Report
 
-*** Future Improvements
+🔮 Future Improvements
 
 Add time-series modeling (e.g., LSTM)
 
@@ -97,6 +100,6 @@ Add model explainability (SHAP, feature importance)
 
 Automate retraining pipeline
 
-
+🙋‍♂️ Author
 
 Bhaskar — GitHub Profile
